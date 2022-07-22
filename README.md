@@ -1,3 +1,4 @@
 # IITB-RISC-22
 EE 309 MICROPROCESSORS course project 
-This is multicycle IITB RISC having 17 instructions
+This is a multicycle IITB RISC having 17 instructions
+This was the 4 member team project developed in Quartus Prime.
